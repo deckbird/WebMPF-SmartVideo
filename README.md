@@ -1,9 +1,11 @@
 
-WebMPF: Web Multimodal Presentation Format 
+WebMPF v1.0
 
-WebMPF (Web Multimodal Presentation Format), also known as Smart Video, is a new Internet open standard for presentation curating and sharing.
+tong@deckbird.ai
 
-WebMPF works with PDF files, images, and videos as the building blocks to ensure maximum compatibilities, while utilize zero-shot cross lingual AI voice models and compartmental localized LLMs for personalized curating and sharing.
+WebMPF (Web Multimodal Presentation Format), also known as Smart Video, is a new Internet open standard for web based presentation curating and sharing. When this version is completed, it will be submitted to IETF for RFC.
+
+WebMPF works with PDF files, images, music, and videos as the building blocks to ensure maximum compatibilities, while utilize zero-shot cross lingual AI voice models and compartmental localized LLMs for personalized curating and sharing.
 
 WebMPF is designed to be: 
 
@@ -11,7 +13,7 @@ WebMPF is designed to be:
 
 * Multimodal. Smart video incorporates text, images, audio, and video to deliver a rich media experience.
 
-* Faster. Smart video is optimized for content streaming and delivery. It is significantly faster than video and PDF file.
+* Faster. Smart video is optimized for content streaming and delivery over the Internet. It is significantly faster than video and PDF file.
 
 * Eliminates the slide-to-video barrier. Anyone can produce a smart video, if they know how to create a slide presentation. At the same time, it gives user full control of the generated contents.
 
