@@ -1,7 +1,7 @@
 
 WebMPF v1.0
 
-tong@deckbird.ai
+Author: Tong Li tong@deckbird.ai
 
 WebMPF (Web Multimodal Presentation Format), also known as Smart Video, is a new Internet open standard for web based presentation curating and sharing. When this version is completed, it will be submitted to IETF for RFC.
 
